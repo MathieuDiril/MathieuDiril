@@ -27,7 +27,7 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>   
- <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAY7WtJ07dJAvloVU8tVwgYsBG0xRNm5Ufm_IHf-3XnA&s" alt="sketch" width="40" height="40"/> </a>     
+ <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAY7WtJ07dJAvloVU8tVwgYsBG0xRNm5Ufm_IHf-3XnA&s" alt="sketch" width="80" height="40"/> </a>     
   </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathieudiril&show_icons=true&locale=en&layout=compact" alt="mathieudiril" /></p>

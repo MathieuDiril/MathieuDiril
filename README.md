@@ -1,6 +1,11 @@
-👋 Bonjour, I’m Mathieu 
+##👋 Bonjour, I’m Mathieu 
 
-Data Scientist - iOS Developer
+#Data Scientist - iOS Developer
+
+Languages and Tools:
+
+Python, Machine Learning, TensorFlow, Scikit-Learn, ML Ops, Deep Learning, Google Cloud Platform, Big Query, Docker, Virtual Machine
+iOS, Java
 
 
 <!---
@@ -19,4 +24,9 @@ Write me a letter at mathieu.diril@gmail.com or dm on https://www.linkedin.com/i
 
 MathieuDiril/MathieuDiril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+TO DO:
+add logo for language
+
+
 --->

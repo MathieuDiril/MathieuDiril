@@ -14,6 +14,10 @@
 
 
 
+
+
+<!---
+
 ##👋 Bonjour, I’m Mathieu 
 
 #Data Scientist - iOS Developer
@@ -24,7 +28,8 @@ Python, Machine Learning, TensorFlow, Scikit-Learn, ML Ops, Deep Learning, Googl
 iOS, Java
 
 
-<!---
+
+
 Working on a financial app powering Machine Learning and AI
 
 Write me a letter at mathieu.diril@gmail.com or dm on https://www.linkedin.com/in/mathieudiril/
